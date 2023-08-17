@@ -20,11 +20,11 @@ Este é um chatbot desenvolvido em Python que utiliza a biblioteca `skpy` para s
 
 ## Estrutura do Projeto
 
-    main.py: Ponto de entrada da aplicação, inicia os processos principais.
-    controllers:Pasta onde a lógica referente aos managers e bots do projeto é armazenada.
-    database: Pasta com os arquivos relacionados ao banco de dados e suas funções.
-    models: Pasta com os modelos de dados utilizados na aplicação.
-    rotines: Pasta para armazenar a lógica de cada uma das rotinas, divida entre as principais e as de testes.
+    main.py:  Ponto de entrada da aplicação, inicia os processos principais.
+    controllers:  Pasta onde a lógica referente aos managers e bots do projeto é armazenada.
+    database:  Pasta com os arquivos relacionados ao banco de dados e suas funções.
+    models:  Pasta com os modelos de dados utilizados na aplicação.
+    rotines:  Pasta para armazenar a lógica de cada uma das rotinas, divida entre as principais e as de testes.
     
 ## Contribuindo
 
