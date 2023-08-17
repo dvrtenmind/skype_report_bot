@@ -1,0 +1,7 @@
+USERNAME = "myskype@outlook.com"
+PASSWORD = " ********** "
+DB_USER = "postgres"
+DB_PSW = " ********** "
+DB_HOST = "db.url.postgresql.com"
+DB_DATABASE = "postgres"
+SK_USER_ID = "live:.cid.123456789ABCD"
