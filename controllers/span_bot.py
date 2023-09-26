@@ -1,10 +1,11 @@
 import threading
 from skpy import Skype
+import credentials as skype_creds
 
 class SpanBot():
     def __init__(self):
-        username = "dev_elsc_shammah@outlook.com"
-        password = "bot_ch4t2k23"
+        username = skype_creds.USERNAME
+        password = skype_creds.PASSWORD
         self.sk = Skype(username, password)
         # print("SpammerConected")
     
